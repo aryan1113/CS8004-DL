@@ -1,4 +1,9 @@
 # CS8004 Deep Learning
+- Course curriculum is simple till midsem evaluation
+- Learning curve scales up gradually, doable
+- Last month is intensive, covers AutoEncoders, GAN's, Transformers and Vision Transformers
+- Last Lecture was on Explainable AI, an interesting topic
+
 
 ## Resources
 - Khapra IITM Playlist (only part1, part2 was very vague)
